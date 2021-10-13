@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-fleuhs%s251$48scf90dcdw^7b)94=7(+odke0gl6o#olaxj*3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'streamcipher.tk']
+ALLOWED_HOSTS = ['127.0.0.1', 'streamcipher.tk',
+                 'netutil.herokuapp.com']
 
 
 # Application definition
